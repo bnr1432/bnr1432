@@ -17,8 +17,6 @@
 - 🤝 Open to collaborating on **SAP projects, web apps, and open-source contributions**  
 - 🧠 Skilled at **debugging, optimizing performance, and solving real-world challenges**  
 - 📚 Always learning and adapting to **new technologies**  
-## 👀 Profile Views  
-![GitHub Views](https://komarev.com/ghpvc/?username=bnr1432&color=blue&style=flat-square)  
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Badepalli%20Nagarjuna%20Reddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nagarjuna-reddy-badepalli/)  
 [![Gmail](https://img.shields.io/badge/Email-nagarjunar321%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nagarjunar321@gmail.com)  
