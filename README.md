@@ -4,7 +4,6 @@
 💼 Aspiring **SAP ABAP Consultant** with hands-on experience in **ABAP Dictionary, Reports, Smartforms, BDC, Enhancements, and User Exits**.  
 🚀 Passionate about **enterprise software development, debugging, performance tuning, and full-stack technologies**.  
 
----
 
 ## 🛠️ Skills  
 
@@ -14,7 +13,6 @@
 - **Tools**: SAP GUI, Eclipse (ADT), Git  
 - **Methodologies**: Agile, SDLC  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -22,14 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnr1432&layout=compact&theme=tokyonight)](https://github.com/bnr1432/github-readme-stats)  
 
----
-
-## 👀 Profile Views  
-
-![GitHub Views](https://komarev.com/ghpvc/?username=bnr1432&color=blue&style=flat-square)  
-
----
-
+ 
 ## 🌟 About Me  
 
 - 🔍 Passionate about **SAP ABAP Development** and enterprise business solutions  
@@ -37,7 +28,9 @@
 - 🧠 Skilled at **debugging, optimizing performance, and solving real-world challenges**  
 - 📚 Always learning and adapting to **new technologies**  
 
----
+## 👀 Profile Views  
+
+![GitHub Views](https://komarev.com/ghpvc/?username=bnr1432&color=blue&style=flat-square)  
 
 ## 📫 Connect with Me  
 
