@@ -15,21 +15,6 @@
 - **Methodologies**: Agile, SDLC  
 
 ---
-
-## 📊 GitHub Stats  
-
-![Badepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=badboy9848&show_icons=true&theme=tokyonight)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badboy9848&layout=compact&theme=tokyonight)](https://github.com/badboy9848/github-readme-stats)  
-
----
-
-## 👀 Profile Views  
-
-![GitHub Views](https://komarev.com/ghpvc/?username=badboy9848&color=blue&style=flat-square)  
-
----
-
 ## 🌟 About Me  
 
 - 🔍 Passionate about **SAP ABAP Development** and enterprise business solutions  
