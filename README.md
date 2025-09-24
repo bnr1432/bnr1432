@@ -3,32 +3,19 @@
 🎓 B.Tech in **Computer Science and Engineering** from **Lovely Professional University (2024)**  
 💼 Aspiring **SAP ABAP Consultant** with hands-on experience in **ABAP Dictionary, Reports, Smartforms, BDC, Enhancements, and User Exits**.  
 🚀 Passionate about **enterprise software development, debugging, performance tuning, and full-stack technologies**.  
-
----
-
 ## 🛠️ Skills  
-
 - **SAP ABAP**: Classical & Interactive Reports, ALV, Smartforms, SAP Scripts, BDC, Enhancements, User Exits  
 - **Programming**: C, C++, SQL  
 - **Database**: MySQL, SAP ABAP Dictionary  
 - **Tools**: SAP GUI, Eclipse (ADT), Git  
 - **Methodologies**: Agile, SDLC  
-
----
 ## 🌟 About Me  
-
 - 🔍 Passionate about **SAP ABAP Development** and enterprise business solutions  
 - 🤝 Open to collaborating on **SAP projects, web apps, and open-source contributions**  
 - 🧠 Skilled at **debugging, optimizing performance, and solving real-world challenges**  
 - 📚 Always learning and adapting to **new technologies**  
-
----
-
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Badepalli%20Nagarjuna%20Reddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nagarjuna-reddy-badepalli/)  
 [![Gmail](https://img.shields.io/badge/Email-nagarjunar321%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nagarjunar321@gmail.com)  
-
----
-
 💬 *“Keep learning, keep building — technology grows with you.”*  
